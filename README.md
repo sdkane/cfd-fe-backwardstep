@@ -3,6 +3,8 @@ This was the final project for ME614 - Computational Fluid Dynamics Spring 2014 
 The code was developed completely from scratch with reference to the class textbook for appropriate equations. <br>
 The program entry point is in GlobalSolver.m
 
+The results obtained from this program are in no way guaranteed correct and should be treated as such.
+
 This collection of Matlab scripts is designed to solve a single fluid dynamics finite element problem, a backward step.
 As a bonus to the original problem, I designed the program to be able to solve a user sized mesh and adjustable step size.
 
