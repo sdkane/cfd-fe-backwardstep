@@ -1,4 +1,4 @@
-This was the final project for ME614 - Computational Fluid Dynamics Spring 2014 and was programmed in just under three weeks as the professor did not hand the assignment out until the final three weeks of class.<br>
+This was the final project for ME614 - Computational Fluid Dynamics Spring 2014 and was programmed in just under three weeks as the professor did not hand the assignment out until the final three weeks of class. Because of this the driving motivation behind the code was to get each individual part working and producing correct output without worrying about any sort of coding formatting.<br>
 
 The code was developed completely from scratch with reference to the class textbook for appropriate equations. <br>
 The program entry point is in GlobalSolver.m
